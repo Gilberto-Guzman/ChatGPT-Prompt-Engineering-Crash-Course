@@ -1,6 +1,6 @@
-# Principios de instrucción
+# Principios de instrucción.
 
-### **Principio 1: Escribir instrucciones claras y específicas**<br>
+### **Principio 1: Escribir instrucciones claras y específicas.**<br>
 
 Táctica 1: Utilizar delimitadores.<br>
 
@@ -22,7 +22,7 @@ Comprobar las suposiciones necesarias para realizar la tarea.
 
 Táctica 4: Dar ejemplos de completar tareas exitosamente.
 
-### **Principio 2: Darle tiempo al modelo para "pensar"**
+### **Principio 2: Darle tiempo al modelo para "pensar".**
 
 Si un modelo comete errores al apresurarse hacia una conclusión incorrecta, debes intentar reformular la consulta.
 

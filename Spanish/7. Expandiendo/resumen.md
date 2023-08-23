@@ -1,8 +1,8 @@
-# Temperatura
+# Temperatura.
 
-## Para tareas que requieren confiabilidad y previsibilidad
+## Para tareas que requieren confiabilidad y previsibilidad.
 
-### Siempre obtienes la misma respuesta
+### Siempre obtienes la misma respuesta.
 
 Temperatura = 0<br>
 
@@ -10,9 +10,9 @@ mi comida favorita es pizza<br>
 mi comida favorita es pizza<br>
 mi comida favorita es pizza
 
-## Para tareas que requieren variedad
+## Para tareas que requieren variedad.
 
-### El asistente es más distraíble pero tal vez más creativo
+### El asistente es más distraíble pero tal vez más creativo.
 
 Temperatura = 0.3<br>
 
