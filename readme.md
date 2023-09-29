@@ -22,6 +22,6 @@ En este curso, te guiaré paso a paso a través del apasionante mundo de la inge
 - Curso Completo:
 
     Red por la Ciberseguridad ➜ facebook-link-pendiente  
-    Universidad Autonoma de Chiapas ➜ youtube-link-pendiente
+    Universidad Autonoma de Chiapas ➜ https://www.youtube.com/watch?v=14Zu7HUgWuA
 
 ¡Espero verte pronto para embarcar juntos en esta emocionante travesía en el mundo de la ingeniería de instrucciones para ChatGPT! 💬🤖
