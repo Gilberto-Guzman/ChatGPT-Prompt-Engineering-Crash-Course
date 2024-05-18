@@ -18,7 +18,7 @@ En este curso, te guiaré paso a paso a través del apasionante mundo de la inge
 **Recursos:**
 
 - Repositorio de Código: https://github.com/Gilberto-Guzman/Ingenieria-de-avisos-de-chatgpt
-- Presentación: https://docs.google.com/presentation/d/1V5g4-tbtjlMtItS1aQD2oNOTZnm1JxjBr0N8ghgu9X4/edit?usp=sharing
+- Presentación: https://github.com/Gilberto-Guzman/Ingenieria-de-avisos-de-chatgpt/blob/master/Presentacion/ChatGPT%20Prompt%20Engineering%20Crash%20Course.pptx
 - Curso Completo:
 
     Red por la Ciberseguridad ➜ facebook-link-pendiente  
